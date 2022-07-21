@@ -1,5 +1,5 @@
 {
-    "name": "Boilerplate Card",
+    "name": "Device Health Card",
     "render_readme": true,
-    "filename": "boilerplate-card.js"
+    "filename": "device-health-card.js"
 }
